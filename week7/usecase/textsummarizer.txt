@@ -1,0 +1,28 @@
+The use case diagram is of ocr based text summarizer. The relevant use cases are as follows:
+
+1. Document Summarization:
+
+Use Case: Individuals or organizations dealing with large volumes of Nepali text documents, reports, 
+or articles may use OCR to convert scanned or image-based documents into machine-readable text. 
+The Nepali text summarizer can then generate concise summaries of these documents.
+Benefits: It helps users quickly grasp the main points, key information, and important details 
+without having to read through lengthy documents. This is especially useful for professionals, 
+researchers, or students dealing with extensive textual content.
+
+
+2. News Article Summarization:
+
+Use Case: News agencies or online platforms that provide Nepali news articles can use OCR to process 
+images containing text (such as screenshots or embedded text in images). The text summarizer can then 
+generate brief summaries for these news articles.
+Benefits: Users can quickly get an overview of news stories without having to read the entire articles. 
+This is particularly useful for readers who want to stay informed about current events but have limited time.
+
+
+3. Educational Content Summarization:
+
+Use Case: Educational institutions or online learning platforms dealing with Nepali language educational content 
+(such as textbooks, research papers, or lecture notes) can utilize OCR to convert printed or image-based content 
+into text. The summarizer can then create concise summaries of this educational material.
+Benefits: Students and educators can efficiently review and understand the key concepts within educational content. 
+This use case can aid in exam preparation, research, and quick comprehension of complex topics.
